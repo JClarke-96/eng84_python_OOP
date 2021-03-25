@@ -21,6 +21,6 @@ class Snake(Reptile):
 
 
 snake_object = Snake()
-print(snake_object.slither())
-print(snake_object.hunt())
-print(snake_object.eat())
+# print(snake_object.slither())
+# print(snake_object.hunt())
+# print(snake_object.eat())

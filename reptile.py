@@ -14,7 +14,7 @@ class Reptile(Animal):
     def hunt(self):
         return "Catch the next meal to eat"
 
-    def use_venum(self):
+    def use_venom(self):
         return "I use if I got?"
 
     def seek_heat(self):
@@ -22,5 +22,5 @@ class Reptile(Animal):
 
 
 reptile_object = Reptile()
-#print(reptile_object.hunt())
-#print(reptile_object.breathe())
+# print(reptile_object.hunt())
+# print(reptile_object.breathe())
